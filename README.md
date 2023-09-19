@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monchi789&label=Profile%20views&color=0e75b6&style=flat" alt="monchi789" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monchi789" alt="monchi789" /></a> </p>
-
 - 🌱 I’m currently learning **FastAPI, Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/monchi789](https://github.com/monchi789)
