@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/monchi789](https://github.com/monchi789)
 
-- 💬 Ask me about **Pytho and Linux**
+- 💬 Ask me about **Python and Linux**
 
 - 📫 How to reach me **cristian-02-@live.com**
 
